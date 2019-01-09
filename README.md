@@ -1,7 +1,7 @@
 # australianpostcodes
 A community sourced comprehensive database of Australian Post Codes with geolocation data.
 
-#how it started
+## how it started
 Some years ago, Australia Post used to publish a full list of Australian Postal Codes including state and location data, in a raw data format, completely free.
 
 They have since stopped doing this, instead preferring to charge for data that is arguably public domain, or at least available publicly in many different forms from many different providers.
