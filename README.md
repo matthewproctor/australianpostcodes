@@ -1,7 +1,7 @@
 # australianpostcodes
 A community sourced comprehensive database of Australian Post Codes with geolocation data.
 
-## how it started
+## How it started
 Some years ago, Australia Post used to publish a full list of Australian Postal Codes including state and location data, in a raw data format, completely free.
 
 They have since stopped doing this, instead preferring to charge for data that is arguably public domain, or at least available publicly in many different forms from many different providers.
@@ -12,6 +12,12 @@ You can learn more about this at http://www.matthewproctor.com/australian_postco
 
 ## Data Files
 The postcode data files are stored as CSV, and available on my site in XLS, XLSX and other formats. Column definitions are shown below.
+
+## How to contribute
+All contributions are welcome!!! You have a few options:
+1. Submit a Pull Request
+2. Lodge an Issue on this repo, and I'll update the file
+3. Send me a message (email, twitter dm, etc.)
 
 ## Pull Requests
 Please submit any pull requests that you feel are useful to add, edit or delete data from this database.  Your contributions are essential to help keep this database up to date.
