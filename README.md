@@ -13,14 +13,14 @@ You can learn more about this at http://www.matthewproctor.com/australian_postco
 ## Data Files
 The postcode data files are stored as CSV, and available on my site in XLS, XLSX and other formats. Column definitions are shown below.
 
-postcode |	The postcode in numerical format - 0000 to 9999
-locality |	The locality of the postcode - typically the city/suburb or postal distribution centre
-state |	The Australian state in which the locality is situated
-long |	The longitude of the locality - defaults to 0 when not available
-lat |	The latitude of the locality - defaults to 0 when not available
-dc1 |	The Australia Post distribution Centre servicing this postcode - defaults to blank when not available
-type1 |	The of locality, such as a delivery area, post office or a "Large Volume Recipient" such as a GPO, defaults to blank when not available
-status |	A note indicating whether the data is new, removed or updated - new column Nov 2018
+| postcode |	The postcode in numerical format - 0000 to 9999 |
+| locality |	The locality of the postcode - typically the city/suburb or postal distribution centre |
+| state |	The Australian state in which the locality is situated |
+| long |	The longitude of the locality - defaults to 0 when not available |
+| lat |	The latitude of the locality - defaults to 0 when not available |
+| dc1 |	The Australia Post distribution Centre servicing this postcode - defaults to blank when not available |
+| type1 |	The of locality, such as a delivery area, post office or a "Large Volume Recipient" such as a GPO, defaults to blank when not available |
+| status |	A note indicating whether the data is new, removed or updated - new column Nov 2018 |
 
 
 
