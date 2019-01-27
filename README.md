@@ -13,6 +13,8 @@ You can learn more about this at http://www.matthewproctor.com/australian_postco
 ## Data Files
 The postcode data files are stored as CSV, and available on my site in XLS, XLSX and other formats. Column definitions are shown below.
 
+| Fieldname | Description |
+| --- | --- |
 | postcode |	The postcode in numerical format - 0000 to 9999 |
 | locality |	The locality of the postcode - typically the city/suburb or postal distribution centre |
 | state |	The Australian state in which the locality is situated |
