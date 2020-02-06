@@ -1,3 +1,5 @@
+I just did some minor updates to this.
+
 # Australian Post Codes
 A community sourced comprehensive database of Australian Post Codes with geolocation data.
 
@@ -37,3 +39,10 @@ Please submit any pull requests that you feel are useful to add, edit or delete 
 
 ## Australia Post Databases
 From time to time, friendly people help submit changes that they see from the official Australia Post database.  I dont have the funds to buy this database myself, and technically it's not meant to be republished, but I'm confident this repository has the most up to date publically sourced set of postal data available.
+
+
+##Note on the SQL file.
+As long and type are reserved words in MySQL, it's been addressed directly in the insert query, so you may need to update that in insert script in the php import tool.
+
+Also, you may need to clean the data a little more that comes from the original CSV source as it contained multiple entries of ""NAME"" instead of "NAME", which tends to break things like this on CSV imports.
+
