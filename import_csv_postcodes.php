@@ -128,7 +128,7 @@ if ( isset($_FILES["file"]))
 
                 if($a>0)
                 {
-                    $query = "INSERT INTO `" . $tablename . "` (otherid, pcode,locality,state,auspostcodes.long,lat,deliveryoffice,auspostcodes.type,dateofupdate) VALUES ('$otherid','$pcode','$locality','$state','$long','$lat','$deliveryoffice','$type','$dateofupdate');";
+                    $query = "INSERT INTO `" . $tablename . "` (otherid, pcode,locality,state," . $tablename . ".long,lat,deliveryoffice," . $tablename . ".type,dateofupdate) VALUES ('$otherid','$pcode','$locality','$state','$long','$lat','$deliveryoffice','$type','$dateofupdate');";
                     echo $query . "<br>\n";
 
                     $sq1 = mysqli_query($dbc,$query);
