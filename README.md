@@ -17,15 +17,37 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 
 | Fieldname | Description |
 | --- | --- |
-| postcode |	The postcode in numerical format - 0000 to 9999 |
-| locality |	The locality of the postcode - typically the city/suburb or postal distribution centre |
-| state |	The Australian state in which the locality is situated |
-| long |	The longitude of the locality - defaults to 0 when not available |
-| lat |	The latitude of the locality - defaults to 0 when not available |
-| dc1 |	The Australia Post distribution Centre servicing this postcode - defaults to blank when not available |
-| type1 |	The of locality, such as a delivery area, post office or a "Large Volume Recipient" such as a GPO, defaults to blank when not available |
-| status |	A note indicating whether the data is new, removed or updated - new column Nov 2018 |
-
+| postcode |	The postcode in numerical format - 0000 to 9999	3000	 
+| locality |	The locality of the postcode - typically the city/suburb or postal distribution centre	 
+| state |	The Australian state in which the locality is situated	 
+| long |	The longitude of the locality - defaults to 0 when not available 
+| lat |	The latitude of the locality - defaults to 0 when not available 
+| dc1 |	The Australia Post distribution Centre servicing this postcode - defaults to blank when not available	 
+| type1 |	The type of locality, such as a delivery area, post office or a "Large Volume Recipient" such as a GPO, defaults to blank when not available	 
+| SA3 |	The SA3 Statistical Area code	 
+| SA3 Name |	The name of the SA3 Statistical Area	 
+| SA4 |	The SA4 Statistical Area code	 
+| SA4 Name |	The name of the SA4 Statistical Area	 
+| Region |	Designated Regional Area 
+| status |	A note indicating whether the data is new, removed or updated  
+| CED |	The Commonwealth Electroal Division	 
+| Altitude |	Altitude/Elevation (meters)	 
+| Charge Zone |	Australia Post Charge Zones	 
+| PHN Code |	Primary Health Network Code	 
+| PHN Code |	Primary Health Network Name	 
+| Lat Google |	Latitude from Google Maps API
+| Long Google |	Longitude from Google Maps API
+| SA1 Maincode 2011 |	Statistical Area 1 2011 Code
+| SA1 Maincode 2016 |	Statistical Area 1 2016 Code
+| SA2 Maincode 2016 |	Statistical Area 2 2016 Code
+| SA2 Name 2016 |	Statistical Area 2 2016 Name
+| RA 2011 |	Remoteness Area - 2011 Dataset
+| RA 2016 |	Remoteness Area - 2016 Dataset
+| MMM 2016 |	Modified Monash Model - 2016 Dataset
+| MMM 2019 |	Modified Monash Model - 2019 Dataset
+| LGA Region |	Local Government Area	 
+| Electorate |	Federal Government Electorate	 
+| Electorate Rating |	Federal Government Demographic Rating	 
 
 
 ## How to contribute
