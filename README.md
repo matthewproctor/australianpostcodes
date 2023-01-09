@@ -38,8 +38,8 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 | Charge Zone       | Australia Post Charge Zones                                                                                                                  |
 | PHN Code          | Primary Health Network Code                                                                                                                  |
 | PHN Code          | Primary Health Network Name                                                                                                                  |
-| Lat Google        | Latitude from Google Maps API                                                                                                                |
-| Long Google       | Longitude from Google Maps API                                                                                                               |
+| Lat_precise       | Latitude from Google Maps API                                                                                                                |
+| Long_precise      | Longitude from Google Maps API                                                                                                               |
 | SA1 Maincode 2011 | Statistical Area 1 2011 Code                                                                                                                 |
 | SA1 Maincode 2016 | Statistical Area 1 2016 Code                                                                                                                 |
 | SA2 Maincode 2016 | Statistical Area 2 2016 Code                                                                                                                 |
