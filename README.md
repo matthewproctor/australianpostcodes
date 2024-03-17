@@ -66,6 +66,20 @@ All contributions are welcome!!! You have a few options:
 2. Lodge an Issue on this repo, and I'll update the file
 3. Send me a message (email, twitter dm, etc.)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewproctor" alt="matthewproctor" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mattproctorau" target="blank"><img src="https://img.shields.io/twitter/follow/mattproctorau?logo=twitter&style=for-the-badge" alt="mattproctorau" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mattproctorau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattproctorau" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matthewrproctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewrproctor" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2276431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2276431" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc5pb9o0oekskmmpi1r3gpda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc5pb9o0oekskmmpi1r3gpda" height="30" width="40" /></a>
+</p>
+
+
 ## Pull Requests
 
 Please submit any pull requests that you feel are useful to add, edit or delete data from this database. Your contributions are essential to help keep this database up to date.
