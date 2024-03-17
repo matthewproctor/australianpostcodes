@@ -40,10 +40,14 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 | PHN Code          | Primary Health Network Name                                                                                                                  |
 | Lat_precise       | Latitude from Google Maps API                                                                                                                |
 | Long_precise      | Longitude from Google Maps API                                                                                                               |
-| SA1 Maincode 2011 | Statistical Area 1 2011 Code                                                                                                                 |
-| SA1 Maincode 2016 | Statistical Area 1 2016 Code                                                                                                                 |
-| SA2 Maincode 2016 | Statistical Area 2 2016 Code                                                                                                                 |
-| SA2 Name 2016     | Statistical Area 2 2016 Name                                                                                                                 |
+| SA1 Code 2021     | Statistical Area 1 2021 Code                                                                                                                 |
+| SA1 Name 2021     | Statistical Area 1 2021 Name                                                                                                                 |
+| SA2 Code 2021     | Statistical Area 2 2021 Code                                                                                                                 |
+| SA2 Name 2021     | Statistical Area 2 2021 Name                                                                                                                 |
+| SA3 Code 2021     | Statistical Area 3 2021 Code                                                                                                                 |
+| SA3 Name 2021     | Statistical Area 3 2021 Name                                                                                                                 |
+| SA4 Code 2021     | Statistical Area 4 2021 Code                                                                                                                 |
+| SA4 Name 2021     | Statistical Area 4 2021 Name                                                                                                                 |
 | RA 2011           | Remoteness Area - 2011 Dataset                                                                                                               |
 | RA 2016           | Remoteness Area - 2016 Dataset                                                                                                               |
 | MMM 2016          | Modified Monash Model - 2016 Dataset                                                                                                         |
@@ -51,6 +55,8 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 | LGA Region        | Local Government Area                                                                                                                        |
 | Electorate        | Federal Government Electorate                                                                                                                |
 | Electorate Rating | Federal Government Demographic Rating                                                                                                        |
+| State Electroal Division Code     | State Government Electorate Code                                                                                                               |
+| State Electroal Division Name        | State Government Electorate Name                                                                                                               |
 
 ## How to contribute
 
