@@ -20,7 +20,7 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 
 | Fieldname         | Description                                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| postcode          | The postcode in numerical format - 0000 to 9999 3000                                                                                         |
+| postcode          | The postcode in numerical format - 0000 to 9999, for example "3000 "                                                                         |
 | locality          | The locality of the postcode - typically the city/suburb or postal distribution centre                                                       |
 | state             | The Australian state in which the locality is situated                                                                                       |
 | long              | The longitude of the locality - defaults to 0 when not available                                                                             |
@@ -55,8 +55,8 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 | LGA Region        | Local Government Area                                                                                                                        |
 | Electorate        | Federal Government Electorate                                                                                                                |
 | Electorate Rating | Federal Government Demographic Rating                                                                                                        |
-| State Electroal Division Code     | State Government Electorate Code                                                                                                               |
-| State Electroal Division Name        | State Government Electorate Name                                                                                                               |
+| State Electroal Division Code     | State Government Electorate Code                                                                                             |
+| State Electroal Division Name        | State Government Electorate Name                                                                                          |
 
 ## How to contribute
 
