@@ -1,8 +1,8 @@
-I just did some minor updates to this repository and added a PHP import script.
-
 # Australian Post Codes
 
 A community sourced comprehensive database of Australian Post Codes with geolocation data.
+
+*Last Major Update: 6-Sep-2025*
 
 ## How it started
 
