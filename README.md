@@ -20,6 +20,7 @@ The postcode data files are stored as CSV, and available on my site in XLS, XLSX
 
 | Fieldname         | Description                                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| dateupdated       | The last date the record was updated - introduced 5-Sep-2025 so all set there to start with                                                  |
 | postcode          | The postcode in numerical format - 0000 to 9999, for example "3000 "                                                                         |
 | locality          | The locality of the postcode - typically the city/suburb or postal distribution centre                                                       |
 | state             | The Australian state in which the locality is situated                                                                                       |
